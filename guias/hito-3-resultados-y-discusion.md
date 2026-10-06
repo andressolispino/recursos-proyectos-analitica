@@ -17,8 +17,9 @@ En este hito trabajas la **etapa 4** de la [Ruta del proyecto](ruta-del-proyecto
 ## 3. Recursos para este hito
 
 - [Plantilla general de documento](../plantillas/documento-de-investigacion.md)
-- [Plantilla de presentación de sustentación (.pptx)](../plantillas/presentacion.md) para tus diapositivas finales.
+- [Guion de presentación para la sustentación](../plantillas/presentacion.md), para preparar tus diapositivas finales en la plantilla de tu programa.
 - [Cómo entregar el código (Colab y GitHub)](colab-y-github.md): cómo subir la versión final y crear la versión v1.0 desde la página de GitHub. Incluye, como opción, cómo obtener un DOI con Zenodo. ¿Dudas con GitHub? Esa guía tiene dos videos tutoriales en español y el enlace a la [documentación oficial de GitHub](https://docs.github.com/es/repositories/working-with-files/managing-files/adding-a-file-to-a-repository).
+- **Código de apoyo del repositorio:** [comparacion_estadistica.py](../codigo/comparacion_estadistica.py) (Friedman, Nemenyi con diagrama de diferencia crítica y Wilcoxon-Holm), [intervalos_confianza.py](../codigo/intervalos_confianza.py), [ablacion.py](../codigo/ablacion.py), [explicabilidad.py](../codigo/explicabilidad.py) (SHAP contra importancia por permutación) y [sus.py](../codigo/sus.py). Míralos funcionando en el [cuaderno de flujo completo](../notebooks/01_flujo_rigor_analitico.ipynb).
 - [Guía de prompts de IA](../prompts/README.md): prompts listos para la prueba estadística, los intervalos de confianza, la interpretación de SHAP, la revisión de tu discusión y el simulacro de sustentación (prompts 16 a 23, incluidos la tabla de ablación y la evaluación de usabilidad SUS), y prompts para revisar cada capítulo del documento final con criterios de jurado: resultados y discusión, conclusiones, introducción y resumen, citas y referencias, repositorio y plan de ajustes (R6 a R13, incluida la autoverificación de buenas prácticas de reporte).
 - [Tablas y figuras sugeridas (opcional)](../plantillas/tablas-y-figuras.md): incluye el diagrama de diferencia crítica y los gráficos SHAP.
 - [Normas APA](escritura-y-referencias.md) · [Escritura y referencias](escritura-y-referencias.md)
@@ -41,7 +42,7 @@ En este hito trabajas la **etapa 4** de la [Ruta del proyecto](ruta-del-proyecto
 
 ## 4. Qué entregas
 
-1. **Último objetivo específico** en la capítulo de desarrollo del proyecto.
+1. **Último objetivo específico** en el capítulo de desarrollo del proyecto.
 2. **Documento completo**, conforme a la plantilla de tu programa: introducción; desarrollo completo de los objetivos específicos y del proyecto; resultados, análisis y discusión sustentados con evidencias; conclusiones y recomendaciones; resumen, abstract y palabras clave; referencias y anexos (incluida la bitácora de decisiones); revisión final de redacción, citación y referencias según APA 7.ª edición.
 3. **Diapositivas para la sustentación:** versión final en PDF para 15 minutos, alineada con el documento.
 4. **Disponibilidad de datos y código** actualizada (con el enlace al despliegue, si existe, y el DOI de Zenodo, si decides obtenerlo: es opcional) y **Declaración de uso de IA** (sugerida).
