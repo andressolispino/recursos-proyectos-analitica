@@ -1,0 +1,14 @@
+<contexto_del_proyecto>
+Título provisional: [ ]
+Problema (2 o 3 líneas): [ ]
+Pregunta de investigación: [ ]
+Objetivo general: [ ]
+Objetivos específicos: [1. … 2. … 3. …]
+Enfoque: [predictivo: clasificación, regresión o series de tiempo | descriptivo: inteligencia de negocios]
+Unidad de análisis y variable objetivo o KPI principal: [ ]
+Datos: [fuente, periodo, número de filas y columnas, frecuencia de actualización]
+Protocolo de evaluación (antes del modelado): [métrica principal, partición y validación, línea base, criterio de éxito]
+Herramientas: [Python en Google Colab, pandas, scikit-learn, Power BI, …]
+Dónde voy: [lo que ya hice y lo que sigue]
+</contexto_del_proyecto>
+Nivel académico y requisitos del programa: [especialización o maestría; alcance acordado con mi director]
