@@ -19,17 +19,17 @@ Para una dirección de un archivo `.ipynb` que empieza por `https://github.com/`
 - [ETL paso a paso con pandas](https://github.com/Miinaaann/ETL-Pandas/blob/main/01_ETL_Sensor_Data_Tutorial.ipynb)
 - [Limpieza con faltantes, duplicados y atípicos (IQR)](https://github.com/JanarthanKumar/Data-Cleaning-Visualization-Project/blob/main/Data%20Cleaning%20%26%20Visualization%20Project.ipynb)
 - [Limpieza de datos](https://github.com/sebastian2509052-cmd/analisis_exploratorio/blob/main/1_limpieza_de_datos.ipynb)
-- [Consolidación de varias fuentes en un solo dataset](https://1drv.ms/f/c/df54b38ff25a092a/IgAzkMU79uGnQoQRs9Ip1JX1AY4MyOQq093GCbSuJpRCQEM?e=XQls5e)
+- [Consolidación de varias fuentes en un solo dataset (APIs de XM, NASA POWER y datos.gov.co)](../proyectos-ejemplo/demanda-energia-regresion/00_consolidacion_dataset.ipynb)
 
-En la carpeta compartida: cuaderno 0.
+Proyecto de ejemplo de demanda de energía: cuaderno 0.
 
 ## Etapa 2 · EDA univariado y bivariado
 
 - [EDA completo de un dataset](https://github.com/sebastian2509052-cmd/analisis_exploratorio/blob/main/2_eda_imdb.ipynb)
 - [EDA y selección de factores](https://github.com/JDAG-SUP/mineria-de-datos-jd-y-dm/blob/main/notebooks/01_EDA_Seleccion_Factores.ipynb)
-- [Exploración del dataset](https://1drv.ms/f/c/df54b38ff25a092a/IgAzkMU79uGnQoQRs9Ip1JX1AY4MyOQq093GCbSuJpRCQEM?e=XQls5e)
+- [Exploración del dataset y preparación por familia de modelos](../proyectos-ejemplo/demanda-energia-regresion/01_exploracion_dataset.ipynb)
 
-En la carpeta compartida: cuaderno 1.
+Proyecto de ejemplo de demanda de energía: cuaderno 1.
 
 ## Etapa 2 · EDA multivariado
 
@@ -65,24 +65,24 @@ En la carpeta compartida: cuaderno 1.
 - [Regresión logística, SVM, Random Forest y XGBoost con pipelines](https://github.com/ShienTioh/Machine-Learning-Model-Comparison/blob/main/notebooks/COGS_118A_model_comparison.ipynb)
 - [Cinco clasificadores comparados en cuatro datasets](https://github.com/kshtwr/Evaluating-Classifiers/blob/main/Final%20Project%20Code.ipynb)
 - [Modelado predictivo y validación](https://github.com/JDAG-SUP/mineria-de-datos-jd-y-dm/blob/main/notebooks/02_Modelado_Predictivo.ipynb)
-- [Batería de modelos de regresión con particiones 80-20 y 90-10 y análisis comparativo](https://1drv.ms/f/c/df54b38ff25a092a/IgAzkMU79uGnQoQRs9Ip1JX1AY4MyOQq093GCbSuJpRCQEM?e=XQls5e)
+- [Batería de modelos de regresión con particiones 80-20 y 90-10 y análisis comparativo](../proyectos-ejemplo/demanda-energia-regresion/README.md)
 
-En la carpeta compartida: cuadernos 2, 2.1 y 2.4.
+Proyecto de ejemplo de demanda de energía: cuadernos 2, 2.1, 2.2 y 2.4.
 
 ## Etapa 3 · Optimización de hiperparámetros
 
 - [XGBoost optimizado con Optuna](https://github.com/ghanmi-hamza/Hyperparameter_Tuning_Using_Optuna/blob/master/xgboost-hyperparameter-tuning-using-optuna.ipynb)
 - [Un cuaderno por modelo de árboles con búsqueda de hiperparámetros](https://github.com/TAMIM-IQBAL0110/tree-based-ml-and-hyperparameter-tuning)
-- [Optimización de hiperparámetros de los modelos de regresión](https://1drv.ms/f/c/df54b38ff25a092a/IgAzkMU79uGnQoQRs9Ip1JX1AY4MyOQq093GCbSuJpRCQEM?e=XQls5e)
+- [Ajuste de hiperparámetros con GridSearchCV y validación temporal](../proyectos-ejemplo/demanda-energia-regresion/02_3_ajuste_hiperparametros_80_20.ipynb)
 
-En la carpeta compartida: cuadernos 2.2 y 2.3.
+Proyecto de ejemplo de demanda de energía: cuaderno 2.3.
 
 ## Etapa 3 · Modelos para series de tiempo
 
 - [Línea base, LightGBM, comparación final y LSTM](https://github.com/agrawalvanshika/Hourly-Energy-Consumption/tree/main/Notebooks)
 - [EDA, preprocesamiento, SARIMA y LSTM](https://github.com/AravindLN123/Energy-Demand-Forecasting-SARIMA-LSTM-/tree/main/Code)
 - [XGBoost y CatBoost con rezagos](https://github.com/jorgegalanr/energy-forecasting-xgboost-catboost/blob/main/notebooks/energy_forecasting.ipynb)
-- [Proyecto completo de pronóstico de demanda de energía](https://1drv.ms/f/c/df54b38ff25a092a/IgB0d5ngpDuxTo8RsAzvGPAhAckFFgB6EDD5I4u4dFkLDGw?e=fWUpgq)
+- [Proyecto completo de pronóstico de series de tiempo: fondos de inversión colectiva](../proyectos-ejemplo/fondos-inversion-series-tiempo/README.md)
 
 ## Etapa 3 · Enfoque descriptivo: modelo dimensional, KPIs y dashboard
 
