@@ -4,7 +4,7 @@
 
 ## Cómo usarlos
 
-1. Completa el [bloque de contexto](contexto-del-proyecto.txt) y agrega tu nivel académico y el alcance acordado con tu director.
+1. Completa el [bloque de contexto](contexto-del-proyecto.txt), incluidos tu nivel académico y el alcance acordado con tu director.
 2. Abre el prompt que necesitas y copia completo su bloque de texto.
 3. Sustituye el bloque de contexto por el tuyo, completa los corchetes y deja en los insumos solo lo que realmente adjuntas.
 4. Adjunta evidencia revisada: estructura de los datos, tablas, figuras, código o tu capítulo.
@@ -62,7 +62,7 @@ El resumen de estructura también puede revelar información del proyecto. Reví
 | R3 | [R3. Revisar los objetivos](R3.md) |
 | R4 | [R4. Revisar el marco de referencia](R4.md) |
 | R5 | [R5. Revisar la metodología y el protocolo de evaluación](R5.md) |
-| R6 | [R6. Revisar el desarrollo de un objetivo específico (desarrollo del proyecto)](R6.md) |
+| R6 | [R6. Revisar el desarrollo de un objetivo específico](R6.md) |
 | R7 | [R7. Revisar resultados, análisis y discusión](R7.md) |
 | R8 | [R8. Revisar conclusiones y recomendaciones](R8.md) |
 | R9 | [R9. Revisar introducción, resumen, abstract y palabras clave](R9.md) |

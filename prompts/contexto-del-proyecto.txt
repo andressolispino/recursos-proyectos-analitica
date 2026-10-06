@@ -1,4 +1,5 @@
 <contexto_del_proyecto>
+Nivel académico y alcance: [especialización o maestría; alcance acordado con mi director]
 Título provisional: [ ]
 Problema (2 o 3 líneas): [ ]
 Pregunta de investigación: [ ]
@@ -11,4 +12,3 @@ Protocolo de evaluación (antes del modelado): [métrica principal, partición y
 Herramientas: [Python en Google Colab, pandas, scikit-learn, Power BI, …]
 Dónde voy: [lo que ya hice y lo que sigue]
 </contexto_del_proyecto>
-Nivel académico y requisitos del programa: [especialización o maestría; alcance acordado con mi director]
