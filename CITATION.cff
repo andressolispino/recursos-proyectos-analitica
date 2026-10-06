@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si usas o adaptas estos recursos, cítalos así."
+title: "Recursos para proyectos y tesis de analítica de datos"
+type: software
+authors:
+  - family-names: "Solís Pino"
+    given-names: "Andrés Felipe"
+    orcid: "https://orcid.org/0000-0003-3342-0776"
+repository-code: "https://github.com/andressolispino/recursos-proyectos-analitica"
+url: "https://github.com/andressolispino/recursos-proyectos-analitica"
+abstract: >-
+  Biblioteca de apoyo para estudiantes de especialización y maestría en analítica y ciencia
+  de datos: ruta metodológica basada en CRISP-DM, guías por hito, prompts de IA, plantillas,
+  código de apoyo probado y proyectos de ejemplo.
+keywords:
+  - analítica de datos
+  - ciencia de datos
+  - trabajos de grado
+  - CRISP-DM
+  - aprendizaje automático
+  - educación
+license: CC-BY-4.0
+date-released: "2026-10-06"
