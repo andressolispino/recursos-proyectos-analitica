@@ -1,6 +1,6 @@
 # Pronóstico de la demanda eléctrica del mercado de comercialización del Valle del Cauca (2020–2025)
 
-Trabajo de grado de especialización en analítica de datos (enfoque predictivo, regresión sobre una serie horaria). Compartido con autorización de sus autores; se retiraron los nombres y los datos personales.
+Trabajo de grado de posgrado en analítica de datos (enfoque predictivo, regresión sobre una serie horaria). Compartido con autorización de sus autores; se retiraron los nombres y los datos personales.
 
 **Pregunta de fondo:** ¿qué tan bien se puede pronosticar la demanda horaria de energía del mercado de comercialización combinando variables del mercado eléctrico, clima, economía y calendario?
 
