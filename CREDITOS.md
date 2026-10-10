@@ -1,6 +1,6 @@
 # Créditos y condiciones de uso
 
-Biblioteca mantenida por **Andrés Felipe Solís Pino** ([ORCID 0000-0003-3342-0776](https://orcid.org/0000-0003-3342-0776)) para acompañar proyectos y tesis de analítica y ciencia de datos.
+Biblioteca mantenida por **Andrés Felipe Solís Pino** para acompañar proyectos y tesis de analítica y ciencia de datos.
 
 ## Licencias
 

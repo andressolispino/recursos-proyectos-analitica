@@ -2,7 +2,7 @@
 
 Biblioteca de apoyo para estudiantes de especialización y maestría en analítica y ciencia de datos. Reúne una ruta de trabajo, guías metodológicas, prompts, plantillas, código probado y proyectos reales de ejemplo para avanzar desde la pregunta de investigación hasta la sustentación.
 
-**Mantenida por Andrés Felipe Solís Pino** ([ORCID 0000-0003-3342-0776](https://orcid.org/0000-0003-3342-0776)). Los recursos se adaptan al contexto de cada proyecto y complementan las orientaciones de su director y las reglas de su programa.
+**Mantenida por Andrés Felipe Solís Pino.** Los recursos se adaptan al contexto de cada proyecto y complementan las orientaciones de su director y las reglas de su programa.
 
 ## Empieza aquí
 
@@ -63,16 +63,9 @@ Para abrir cualquier cuaderno en Colab, cambia `github.com` por `colab.research.
 └── recursos/           catálogo de ejemplos externos y documentación
 ```
 
-## Si vienes de un curso
+## Si tu programa trabaja por entregas
 
-Los hitos de esta biblioteca corresponden a las entregas de los cursos en los que se usa:
-
-| Curso | Hito 1 | Hito 2 | Hito 3 |
-| --- | --- | --- | --- |
-| Proyecto 2 · Especialización en Analítica de Datos (CUN) | ACA 1 | ACA 2 | ACA 3 y sustentación |
-| Trabajos de grado y tesis (UNAD y otros programas) | Avance acordado con tu director | Avance acordado con tu director | Documento final y sustentación |
-
-Las fechas, los pesos y las rúbricas de cada entrega están en el aula virtual de tu curso; aquí encuentras los recursos técnicos.
+Ubica cada entrega de tu curso o de tu tesis en el hito que le corresponde. Las fechas, los pesos y las rúbricas los define tu programa; aquí encuentras los recursos técnicos.
 
 ## Criterio de uso
 
