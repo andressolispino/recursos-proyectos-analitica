@@ -1,6 +1,6 @@
 # Proyectos de ejemplo
 
-Cuadernos completos de dos trabajos de grado reales de especialización en analítica de datos, compartidos con autorización de sus autores con fines educativos. Se retiraron los nombres, los datos de las cuentas de Colab y las rutas personales.
+Cuadernos completos de dos trabajos de grado reales de posgrado en analítica de datos, compartidos con autorización de sus autores con fines educativos. Se retiraron los nombres, los datos de las cuentas de Colab y las rutas personales.
 
 Sirven para ver **cómo se ve un proyecto terminado de punta a punta**: de dónde salen los datos, cómo se limpian y exploran, cómo se comparan modelos y cómo se reportan las métricas. Los cuadernos conservan sus salidas (tablas y figuras), así que se pueden leer en GitHub sin ejecutarlos.
 
