@@ -1,6 +1,6 @@
 # Pronóstico de los activos administrados por los fondos de inversión colectiva (FIC) en Colombia
 
-Trabajo de grado de especialización en analítica de datos (enfoque predictivo, pronóstico de una serie de tiempo diaria). Compartido con autorización de su autor; se retiraron los nombres y las rutas personales.
+Trabajo de grado de posgrado en analítica de datos (enfoque predictivo, pronóstico de una serie de tiempo diaria). Compartido con autorización de su autor; se retiraron los nombres y las rutas personales.
 
 **Variable objetivo:** `AUM FIC`, el valor diario de los activos administrados por los fondos de inversión colectiva, desde 2018, junto con variables macroeconómicas (inflación, tasa de política monetaria, agregados monetarios y bonos TES).
 
